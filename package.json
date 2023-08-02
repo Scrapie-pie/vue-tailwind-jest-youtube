@@ -1,6 +1,6 @@
 {
-  "name": "youtube-clone",
-  "version": "0.0.0",
+  "name": "vue-tailwind-jest-youtube",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
